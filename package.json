@@ -11,6 +11,7 @@
   "description": "",
   "dependencies": {
     "concat-stream": "^2.0.0",
-    "learnyounode": "^3.2.0"
+    "learnyounode": "^3.2.0",
+    "through2-map": "^4.0.0"
   }
 }
